@@ -12,3 +12,5 @@ Este projeto foi desenvolvido como parte do Challenge promovido pela Oracle ONE 
 1. **Adicione amigos**: Preencha o campo de texto com o nome de um amigo e clique em "Adicionar".
 2. **Veja a lista**: A lista com todos os amigos adicionados será exibida automaticamente.
 3. **Faça o sorteio**: Clique em "Sortear amigo" para realizar o sorteio e ver quem será o amigo
+
+![Imagem do Sorteio](sorteio.png)
